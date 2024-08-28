@@ -2,7 +2,10 @@ This is a boilerplate for NextJS
 
 ## Tech used
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+-   [Next.js](https://nextjs.org/docs)
+-   [Tailwind CSS](https://tailwindcss.com/docs/installation)
+-   [Tailwind x Prettier](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+-   [Playwright](https://playwright.dev/docs/intro#installation)
 
 ## How to use
 
