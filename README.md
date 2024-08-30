@@ -8,6 +8,7 @@ This is a barebones template for NextJS projects. It contains the things I consi
 -   [Tailwind CSS](https://tailwindcss.com/docs/installation)
 -   [Tailwind x Prettier](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 -   [Playwright](https://playwright.dev/docs/intro#installation)
+-   [Vitest]()
 
 ## How to use
 
