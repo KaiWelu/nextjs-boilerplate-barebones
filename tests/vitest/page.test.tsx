@@ -4,5 +4,5 @@ import Page from '../../app/playwright/page'
 
 test('Page', () => {
     render(<Page />)
-    expect(screen.getByText('test')).toBeDefined()
+    expect(screen.getByText('This is for the playwright test')).toBeDefined()
 })
